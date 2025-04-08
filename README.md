@@ -1,2 +1,2 @@
-# laboratorul1/0
+# laboratorulziua2
 Acesta este repozitoriu pentru laboratorul 1
